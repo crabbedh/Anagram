@@ -27,7 +27,7 @@
  * SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. 
  */
 
-/* Anagram Game Application */
+/* Anagram Game Application by Dave Crabbe */
 
 package com.toy.anagrams.lib;
 
